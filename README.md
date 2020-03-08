@@ -1,0 +1,2 @@
+# HexoStaticImage
+博客
